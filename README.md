@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 ## About Me
 
-- 🔭 I’m currently working on expanding my knowledge and skills in web development.
+- 🔭 I’m currently working as software developer and expanding my knowledge and skills in web development.
 - 🌱 I’m constantly learning new technologies and frameworks to stay updated with the latest industry trends.
 - 💞 I’m interested in collaborating on exciting projects that involve both backend and frontend development.
 - 👯 I'm open to collaborating with other developers, designers, and teams who share a passion for creating exceptional web applications.
