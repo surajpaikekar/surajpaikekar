@@ -26,8 +26,8 @@
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Seaborn" width="30px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-<img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-<img align="left" alt="Ollama" width="30px" src="https://avatars.githubusercontent.com/u/169668135?s=200&v=4" />
+
+
 
 <br/><br/><br/>
 
