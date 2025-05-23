@@ -28,7 +28,7 @@
 <img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 
-<br/>
+<br/><br/>
 
 ---
 
