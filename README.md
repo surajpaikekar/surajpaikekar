@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 🎯 A passionate Full Stack Developer from India.  
 🔭 I’m currently working on Data Science.  
-🌱 I’m currently learning DevOps and MLOps  
+🌱 I’m currently learning DevOps and MLOps.
 💬 Ask me about Python, Machine Learning, Deep Learning, NLP, LLMs, LangChain, HuggingFace, RAG, Transformers, Agentic AI, RestAPIs.
 📫 How to reach me: surajpaikekar@gmail.com  
+
 
 
 ---
