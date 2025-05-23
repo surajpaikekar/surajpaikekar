@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <h3> A Passionate Data Science Practitioner </h3></br>
+  <h2><center> A Passionate Data Science Practitioner </center></h3></br>
   📫 Reach me at: <a href="mailto:sbppaikekar@gmail.com">surajpaikekar@gmail.com</a>
 </p>
 
