@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Suraj Paikekar!
+<!-- Typing animation using GitHub Readme Typing SVG -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Suraj+Paikekar;Full+Stack+Dev+%7C+AI+Enthusiast;LangChain+%7C+LLMs+%7C+Python+%7C+React&center=true&size=30">
+</h1>
 
-🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast  
-🌐 Exploring the intersection of AI, backend systems, and automation  
-💬 Ask me about Python, Machine Learning, Data Science, React, Node.js, Python, LangChain, and LLMs  
-📫 Reach me at: surajpaikekar@gmail.com  
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212738717-fc388c8e-9e6b-4c58-a5b5-4c6796cfe86b.gif" width="80%"/>
+</p>
 
 ---
 
@@ -48,19 +49,25 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpaikekar&layout=compact&theme=radical" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=surajpaikekar&show_icons=true&theme=radical" />
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=surajpaikekar&theme=radical&hide_border=true" />
 
-<a href="https://github.com/surajpaikekar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpaikekar&layout=compact&theme=radical" />
-</a>
+</div>
 
-<a href="https://github.com/surajpaikekar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajpaikekar&show_icons=true&theme=radical" />
-</a>
+<br/>
 
-<a href="https://github.com/surajpaikekar">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=surajpaikekar&theme=radical&hide_border=true" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=surajpaikekar&style=flat-square&color=blue" alt="Profile Views" />
-
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=surajpaikekar&style=flat-square&color=blue" alt="Profile Views" />
 </div>
