@@ -1,16 +1,16 @@
 <!-- Animated Header -->
 
-
-<div align="center">
+<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
+</h1>
 
-  <br/><br/>
-
-  🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast <br/>
-  🌐 Exploring the intersection of AI, backend systems, and automation <br/>
-  💬 Ask me about Python, Machine Learning, Data Science, React, Node.js, LangChain, and LLMs <br/>
+<p align="center">
+  🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast  
+  🌐 Exploring the intersection of AI, backend systems, and automation  
+  💬 Ask me about Python, Machine Learning, Data Science, React, Node.js, LangChain, and LLMs  
   📫 Reach me at: <a href="mailto:surajpaikekar@gmail.com">surajpaikekar@gmail.com</a>
-</div>
+</p>
+
 
 
 ---
