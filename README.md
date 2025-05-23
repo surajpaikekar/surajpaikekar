@@ -1,15 +1,9 @@
 <!-- Animated Header -->
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <h2><center> A Passionate Data Science Practitioner </center></h3></br>
-  📫 Reach me at: <a href="mailto:sbppaikekar@gmail.com">surajpaikekar@gmail.com</a>
-</p>
-
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&repeat=true&width=500&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
+  <br/>
+  <h2><strong>A Passionate Data Science Practitioner</strong></h2>
+</div>
 
 ---
 
@@ -69,6 +63,10 @@
 </div>
 
 <br/>
+
+<div align="left">
+  📫 <a href="mailto:surajpaikekar@gmail.com">surajpaikekar@gmail.com</a>
+</div>
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=surajpaikekar&style=flat-square&color=blue" alt="Profile Views" />
