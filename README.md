@@ -5,10 +5,8 @@
 </h1>
 
 <p align="center">
-  🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast  
-  🌐 Exploring the intersection of AI, backend systems, and automation  
-  💬 Ask me about Python, Machine Learning, Data Science, React, Node.js, LangChain, and LLMs  
-  📫 Reach me at: <a href="mailto:surajpaikekar@gmail.com">surajpaikekar@gmail.com</a>
+  <h1>🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast </h1></br>
+  📫 Reach me at: <a href="mailto:sbppaikekar@gmail.com">surajpaikekar@gmail.com</a>
 </p>
 
 
