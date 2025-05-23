@@ -5,7 +5,6 @@
   <h2><strong>A Passionate Data Science Practitioner</strong></h2>
 </div>
 
-📄 [Know about my experiences check out my](https://your-resume-link.com)
 ---
 
 ## 🛠️ Languages and Tools:
