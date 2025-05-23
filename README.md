@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **surajpaikekar/surajpaikekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-# 👋 Hi, I'm Your Name!
+# 👋 Hi, I'm Suraj Paikekar!
 
 🎯 A passionate Full Stack Developer from India.  
 🔭 I’m currently working on Data Science.  
