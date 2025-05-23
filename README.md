@@ -5,7 +5,7 @@
   <h2><strong>A Passionate Data Science Practitioner</strong></h2>
 </div>
 
----
+
 
 ## 🛠️ Languages and Tools:
 
@@ -28,7 +28,7 @@
 <img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 
-<br/><br/><br/>
+<br/>
 
 ---
 
