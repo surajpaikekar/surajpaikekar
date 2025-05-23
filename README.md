@@ -63,8 +63,9 @@
 
 <br/>
 
+<!-- Footer with Reach Out and Profile Visits -->
 <div align="left">
-  📫 <a href="mailto:surajpaikekar@gmail.com">surajpaikekar@gmail.com</a>
+  <img src="https://img.shields.io/badge/📫%20Email-surajpaikekar@gmail.com-blue?style=flat-square" alt="Email" />
 </div>
 
 <div align="right">
