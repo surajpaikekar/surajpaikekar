@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <h1>🚀 A passionate Full Stack Developer & ML-Data Science Enthusiast </h1></br>
+  <h3>🚀 A Passionate Data Science Practitioner </h3></br>
   📫 Reach me at: <a href="mailto:sbppaikekar@gmail.com">surajpaikekar@gmail.com</a>
 </p>
 
