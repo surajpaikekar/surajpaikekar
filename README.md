@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=500&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
   <br/>
   <h2><strong>A Passionate Data Science Practitioner</strong></h2>
-  
-  <!-- Fun Animated GIF -->
-  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="300" alt="Funny Drop GIF" />
 </div>
 
 ---
@@ -36,8 +33,6 @@
 
 ## 📂 Featured Projects:
 
-## 📂 Featured Projects:
-
 <table>
   <tr>
     <!-- Left Side: Projects -->
@@ -59,15 +54,12 @@
       </ul>
     </td>
 
-    <!-- Right Side: Animated Image -->
+    <!-- Right Side: Animated GIF -->
     <td width="40%" align="center" valign="top">
-      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=400&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
-      <br/>
-      <h3><strong>A Passionate Data Science Practitioner</strong></h3>
+      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Animated Dev Image" width="300px"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
