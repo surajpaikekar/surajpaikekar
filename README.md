@@ -36,11 +36,38 @@
 
 ## 📂 Featured Projects:
 
-- 🔗 [PDF-FAQ generation using LangChain, LLMs, HuggingFace, Agentic AI, RAG, Transformers](https://github.com/surajpaikekar/ai-fastapi-pdf-faq)  
-  A solid Python backend to generate FAQ based on provided PDF, RestFul APIs to upload, generate-faq and ask-web etc. 
+## 📂 Featured Projects:
 
-- 🔗 [Blog API - Payment Gateway](https://github.com/surajpaikekar/payment-gateway)  
-  RESTful Blog API with Node.js, Express, and MongoDB
+<table>
+  <tr>
+    <!-- Left Side: Projects -->
+    <td width="60%" valign="top">
+      <ul>
+        <li>
+          🔗 <a href="https://github.com/surajpaikekar/ai-fastapi-pdf-faq">
+            <strong>PDF-FAQ generation using LangChain, LLMs, HuggingFace, Agentic AI, RAG, Transformers</strong>
+          </a><br/>
+          A solid Python backend to generate FAQ based on provided PDF, RestFul APIs to upload, generate-faq and ask-web etc.
+        </li>
+        <br/>
+        <li>
+          🔗 <a href="https://github.com/surajpaikekar/payment-gateway">
+            <strong>Blog API - Payment Gateway</strong>
+          </a><br/>
+          RESTful Blog API with Node.js, Express, and MongoDB
+        </li>
+      </ul>
+    </td>
+
+    <!-- Right Side: Animated Image -->
+    <td width="40%" align="center" valign="top">
+      <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=400&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
+      <br/>
+      <h3><strong>A Passionate Data Science Practitioner</strong></h3>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
