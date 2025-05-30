@@ -1,7 +1,6 @@
 <!-- Animated Header -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=500&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
-  <br/>
   <h2><strong>A Passionate Data Science Practitioner</strong></h2>
 </div>
 
@@ -27,67 +26,47 @@
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
-<br/><br/>
+<br/><br/><br/>
 
 ---
 
-## 📂 Featured Projects:
+## 📂 Featured Projects
 
 <table>
-  <tr>
-    <!-- Left Side: Projects -->
-    <td width="60%" valign="top">
-      <ul>
-        <li>
-          🔗 <a href="https://github.com/surajpaikekar/ai-fastapi-pdf-faq">
-            <strong>PDF-FAQ generation using LangChain, LLMs, HuggingFace, Agentic AI, RAG, Transformers</strong>
-          </a><br/>
-          A solid Python backend to generate FAQ based on provided PDF, RestFul APIs to upload, generate-faq and ask-web etc.
-        </li>
-        <br/>
-        <li>
-          🔗 <a href="https://github.com/surajpaikekar/payment-gateway">
-            <strong>Blog API - Payment Gateway</strong>
-          </a><br/>
-          RESTful Blog API with Node.js, Express, and MongoDB
-        </li>
-      </ul>
-    </td>
+<tr>
+<td width="60%">
 
-    <!-- Right Side: Animated GIF -->
-    <td width="40%" align="center" valign="top">
-      <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Animated Dev Image" width="300px"/>
-    </td>
-  </tr>
+### 🔗 [PDF-FAQ Generation](https://github.com/surajpaikekar/ai-fastapi-pdf-faq)
+A solid Python backend to generate FAQ based on provided PDF using LangChain, HuggingFace, Agentic AI, RAG, and Transformers.
+
+### 🔗 [Blog API - Payment Gateway](https://github.com/surajpaikekar/payment-gateway)
+RESTful Blog API with Node.js, Express, and MongoDB.
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="300px" alt="Dev animated gif"/>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpaikekar&layout=compact&theme=radical" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=surajpaikekar&show_icons=true&theme=radical" />
-      </td>
-    </tr>
-  </table>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=surajpaikekar&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajpaikekar&layout=compact&theme=radical" />
   <br/>
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=surajpaikekar&theme=radical&hide_border=true" />
 </div>
 
-<br/>
+---
 
-<!-- Footer with Reach Out and Profile Visits -->
-<div align="left">
-  <img src="https://img.shields.io/badge/📫%20Email-surajpaikekar@gmail.com-blue?style=flat-square" alt="Email" />
-</div>
+## 📫 Contact
+
+- 📧 Email: surajpaikekar@gmail.com
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=surajpaikekar&style=flat-square&color=blue" alt="Profile Views" />
