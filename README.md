@@ -3,6 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=true&width=500&lines=Hi,+I'm+Suraj+Paikekar!" alt="Typing SVG" />
   <br/>
   <h2><strong>A Passionate Data Science Practitioner</strong></h2>
+  
+  <!-- Fun Animated GIF -->
+  <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="300" alt="Funny Drop GIF" />
 </div>
 
 ---
@@ -26,7 +29,6 @@
 <img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Pandas" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Scikit-learn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-
 
 <br/><br/>
 
