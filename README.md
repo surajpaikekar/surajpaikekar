@@ -66,7 +66,7 @@ RESTful Blog API with Node.js, Express, and MongoDB.
 
 ## 📫 Contact
 
-- 📧 Email: surajpaikekar@gmail.com
+- 📧 Email: sbppaikekar@gmail.com
 
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=surajpaikekar&style=flat-square&color=blue" alt="Profile Views" />
